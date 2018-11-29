@@ -1,5 +1,5 @@
 {
-  "name": "ngx-intl-tel-input",
+  "name": "@ronaldeam/ngx-intl-tel-input",
   "version": "1.0.1",
   "scripts": {
     "build": "gulp build",
@@ -13,18 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webcat12345/ngx-intl-tel-input"
+    "url": "https://github.com/RonaldEAM/ngx-intl-tel-input"
   },
   "author": {
-    "name": "webcat12345",
-    "email": "webcat91@gmail.com"
+    "name": "ronaldeam",
+    "email": "re_am@hotmail.com"
   },
   "keywords": [
     "angular"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webcat12345/ngx-intl-tel-input/issues"
+    "url": "https://github.com/RonaldEAM/ngx-intl-tel-input/issues"
   },
   "devDependencies": {
     "@angular/common": "^4.3.6",
